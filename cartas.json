@@ -1,0 +1,64 @@
+{
+  "cartas": [
+    {
+      "carta": "polimerização",
+      "tipo": "magica",
+      "foto": "http://3.bp.blogspot.com/-Dal5tzS9-N0/VSkrFjBxGwI/AAAAAAAAALs/_LD_oIVcnBc/s1600/YM01-PT049%2BPolymerization",
+      "atk": "",
+      "def": "",
+      "hp": "",
+      "descricao": "",
+      "id": 1
+    },
+    {
+      "carta": "soldado gigante de pedra",
+      "tipo": "guerreiro",
+      "foto": "http://2.bp.blogspot.com/-qjIK2NxE9JI/VSkmX6gdkJI/AAAAAAAAAGo/Nj5y4nMGfBQ/s1600/YM01-PT008%2BGiant%2BSoldier%2Bof%2BStone",
+      "atk": "1300",
+      "def": "2000",
+      "hp": "",
+      "descricao": "guerreiro gigante feito de pedra",
+      "id": 2
+    },
+    {
+      "carta": "exodia, o proibido",
+      "tipo": "mago/efeito",
+      "foto": "http://3.bp.blogspot.com/-sEniLEr_qYM/VSkoxsB7KXI/AAAAAAAAAI0/dqQmuEeQ0bM/s1600/YM01-PT025%2BExodia%2BThe%2BForbbiden%2BOne",
+      "atk": "1000",
+      "def": "1000",
+      "hp": "",
+      "descricao": "quando possui todos os membros proibidos e com essa carta na mão voce vence o duelo",
+      "id": 3
+    },
+    {
+      "carta": "cavaleiro mestre dos dragoes",
+      "tipo": "dragao",
+      "foto": "http://1.bp.blogspot.com/-EB-ENIHtGUA/VSkphNS2sbI/AAAAAAAAAJs/pg4FWZPUKoE/s1600/YM01-PT032%2BDragon%2BMaster%2BKnight",
+      "atk": "5000",
+      "def": "5000",
+      "hp": "",
+      "descricao": "soldado sombrio",
+      "id": 4
+    },
+    {
+      "carta": "touro guerreiro",
+      "tipo": "besta guerreiro",
+      "foto": "http://3.bp.blogspot.com/-f0qXfnPWA98/VSklppK-r6I/AAAAAAAAAF0/989x5q02MS4/s1600/YM01-PT001%2BBattle%2BSteer",
+      "atk": "200",
+      "def": "300",
+      "hp": "",
+      "descricao": "",
+      "id": 5
+    },
+    {
+      "carta": "mago negro",
+      "tipo": "mago",
+      "foto": "http://2.bp.blogspot.com/-SLYS8sToHcg/VSkmCFen1vI/AAAAAAAAAGU/3b9h366ADak/s1600/YM01-PT005%2BDark%2BMagician",
+      "atk": "1000",
+      "def": "2000",
+      "hp": "200",
+      "descricao": "inimigo magico",
+      "id": 6
+    }
+  ]
+}
